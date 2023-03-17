@@ -11,3 +11,5 @@ by talking to her, you move up and down on the
 - friendship 'meter' 
 - trust 'meter'
 - mood 'meter'
+
+![Alt text](witch_npc.jpg "All you see is the truth")
