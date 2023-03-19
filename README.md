@@ -13,3 +13,5 @@ by talking to her, you move up and down on the
 - mood 'meter'
 
 ![Alt text](witch_npc.jpg "All you see is the truth")
+
+hello
