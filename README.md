@@ -22,3 +22,5 @@ by talking to her, you move up and down on the
 ](
     https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/MariaCFFrandsen/npc-bot/.devcontainer
 )
+
+You can open PRs from the devcontainer. But will they be verified?
